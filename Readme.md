@@ -1,17 +1,17 @@
-# Cara — Site e‑commerce de vêtements
+# Cara — Clothing E‑commerce Website
 
 ## Description
-Site de e‑commerce simple pour la marque Cara, réalisé en **HTML, CSS et JavaScript**.  
-Il contient :
-- Une page d’accueil
-- Une boutique listant les vêtements
-- Un blog
-- Une page À propos
-- Une page Contact
+Simple e‑commerce website for the brand Cara, built with HTML, CSS, and JavaScript.
+It includes:
+- A homepage
+- A shop listing clothes
+- A blog
+- An About page
+- A Contact page
 
 ---
 
-## Structure du projet
+## Project Structure
 
 ```
 cara-boutique/
@@ -34,15 +34,15 @@ cara-boutique/
 
 ## Contenu
 
-* **Accueil** : image d’accueil + présentation des sections
-* **Boutique** : liste de vêtements sous forme de cartes
-* **Blog** : articles et actualités
-* **À propos** : présentation de la marque Cara
-* **Contact** : formulaire simple
+* **Accueil** : hero image + section presentations
+* **Boutique** : list of clothes in card format
+* **Blog** : articles and news
+* **À propos** : presentation of the Cara brand
+* **Contact** : simple contact form
 
 ---
 
-## Image d’accueil
+## Hero Image
 
 ![Description de l'image](img/image.png)
 
