@@ -45,11 +45,8 @@ cara-boutique/
 
 ## Image d’accueil
 
-```html
-<img src="img/image.png" alt="Image d'accueil Cara" />
-```
+![Description de l'image](img/image.png)
 
----
 
 ## Technologies
 
