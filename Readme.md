@@ -1,14 +1,13 @@
 # Cara — Site e‑commerce de vêtements
 
-## Nom du dépôt
-
-**cara-boutique**
-
----
-
 ## Description
-
-Site de e‑commerce simple pour la marque **Cara**, réalisé en **HTML**, **CSS** et **JavaScript**. Il contient une page d’accueil, une boutique listant les vêtements, un blog, une page À propos et une page Contact.
+Site de e‑commerce simple pour la marque Cara, réalisé en **HTML, CSS et JavaScript**.  
+Il contient :
+- Une page d’accueil
+- Une boutique listant les vêtements
+- Un blog
+- Une page À propos
+- Une page Contact
 
 ---
 
